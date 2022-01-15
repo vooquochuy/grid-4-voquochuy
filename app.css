@@ -60,7 +60,7 @@ body{
 } */
 .image-item{
     border-radius: 10px;
-    height: 220px;
+    height: 320px;
     box-shadow: rgb(0 0 0 / 40%) -2px -1px 12px;
 }
 .image-item img {
